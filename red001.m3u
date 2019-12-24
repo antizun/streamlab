@@ -33,6 +33,8 @@ http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/649
 http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2260
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CNN CHILE
 http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/514
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",ITV PATAGONIA
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2361
 
 
 
@@ -67,11 +69,123 @@ http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/603
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDO PREMIUM (sd)
 http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15601
 
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS - CHILE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/612
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS - MEXICO 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14881
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS - PERU
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15482
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 (br)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14787
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 1 AR
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/615
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/613
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2  (OP2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/611
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 - ARGENTINA
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/617
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/614
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 - ARGENTINA 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/10999
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/610
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN (br)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15604
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN (OP2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/11365
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN +
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14085
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN 2 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/607
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN 2 (op2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14869
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN 3 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/608
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN 3  - MEXICO
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/609
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN 3 (op2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15351
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN U
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15564
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",ESPN USA
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14050
+#EXTINF:-1,PPV DEPORTES 1 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/900
+#EXTINF:-1,PPV DEPORTES 2 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/901
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PREMIUM",Hotel Bombay
-http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",Hotel Bombay
-http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM ACTION
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1731
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM CINEMA
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1732
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM CLASSICS
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1733
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM COMEDY
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1734
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM FAMILY
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1735
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM MOVIES
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1736
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM SERIES
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1737
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CANALES PREMIUM",FOX PREMIUM SERIES (op2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15538
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",GOLDEN
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1743
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",GOLDEN EDGE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1741
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",GOLDEN PLUS
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1742
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",GOLDEN PREMIER
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/10870
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1744
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO (usa)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15574
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO 2
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1745
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO 2 (usa)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15575
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO FAMILY
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1746
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO PLUS
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1747
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO SIGNATURE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1748
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",HBO SIGNATURE (usa)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15579
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",MAX PRIME
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1749
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",MAX UP
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1751
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",MAXIMA MOVIE 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2265
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",PARAMOUNT CHANNEL
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1752
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",SONY CHANNEL
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1753
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",SPACE CHANNEL
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1754
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",STUDIO UNIVERSAL
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1755
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",SUNDANCE TV
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1756
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",TNT
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1760
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",TNT SERIES
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1761
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",UNIVERSAL CHANNEL
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1762
+
+
