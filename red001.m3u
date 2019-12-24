@@ -1,12 +1,74 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",Hotel Bombay
-http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",TVN HD
+http://matrixtop.com:25461/hbGHjOTAEy/CEqaVhJEiR/2388
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",24 HORAS (A)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/3722
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",24 HORAS PLAY
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15540
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CANAL 13 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/512
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CANAL 13 (2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/513
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CANAL 13 GEO
+http://c13-live-1.cdn.nedmedia.io/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CANAL CHILOTE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2362
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CHILEVISION (sd)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/899
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CHILEVISION GEO
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8ufeff
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CHILEVISION hd 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/1159
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",LA RED
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/518
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",LA RED HD 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15422
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",MEGA (A)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/650
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",MEGA HD
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/3646
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",MEGA HD 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/649
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",MEGA PLUS
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2260
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="CHILE",CNN CHILE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/514
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",Hotel Bombay
-http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Hotel Bombay
-http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",CNN CHILE
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/514
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",CNN (usa)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15576
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="NOTICIAS",TV SENADO
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2695
+
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF BASICO
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14789
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF HD 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/601
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF HD (MC)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/14781
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF HD (op2)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/3069
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF HD (op3)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15605
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDF PREMIUM
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/600
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDO 
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/2360
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDO PREMIUM
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/603
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",CDO PREMIUM (sd)
+http://tv.iptv5region.com:25461/equinoxiopro1/osvaldoregala1/15601
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PREMIUM",Hotel Bombay
 http://premiumplustv.com:8000/movie/roberto/roberto/82013.mp4
